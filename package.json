@@ -1,0 +1,16 @@
+{
+"name": "zombie900",
+"theme": "zombie 900",
+"version": "9.7.5",
+"description": "zombie 900 ทางเข้าเว็บไซต์คาสิโนเว็บตรง คนเล่นเยอะ ให้เงินเครดิตฟรี",
+"keywords": [
+"zombie 900",
+"zombie 900 เครดิตฟรี",
+"zombie 900 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/zombie900",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
